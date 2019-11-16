@@ -1,0 +1,177 @@
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\FilmBio1.dll.config
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\FilmBio1.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\FilmBio1.pdb
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\csc.exe
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\csc.exe.config
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\csc.rsp
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\csi.exe
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\csi.exe.config
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\csi.rsp
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.AppContext.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Console.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\vbc.exe
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\vbc.exe.config
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\vbc.rsp
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\Antlr3.Runtime.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\EntityFramework.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\EntityFramework.SqlServer.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\Newtonsoft.Json.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Net.Http.Formatting.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Cors.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Helpers.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Http.Cors.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Http.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Http.WebHost.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Mvc.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Optimization.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Razor.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.WebPages.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\WebGrease.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\EntityFramework.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\EntityFramework.SqlServer.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Http.Cors.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\Newtonsoft.Json.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Net.Http.Formatting.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Helpers.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Http.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Http.WebHost.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Mvc.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Optimization.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.Razor.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.WebPages.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\Antlr3.Runtime.pdb
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\obj\Debug\FilmBio1.csprojAssemblyReference.cache
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\obj\Debug\FilmBio1.csproj.CopyComplete
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\obj\Debug\FilmBio1.dll
+C:\Users\Namn\source\repos\FilmBio1\FilmBio1\obj\Debug\FilmBio1.pdb
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\FilmBio1.dll.config
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\FilmBio1.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\FilmBio1.pdb
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\csc.exe
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\csc.exe.config
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\csc.rsp
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\csi.exe
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\csi.exe.config
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\csi.rsp
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.AppContext.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Console.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.IO.Compression.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Security.Claims.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.ValueTuple.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\vbc.exe
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\vbc.exe.config
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\vbc.rsp
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\VBCSCompiler.exe
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\Antlr3.Runtime.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\EntityFramework.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\EntityFramework.SqlServer.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\Newtonsoft.Json.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Net.Http.Formatting.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Cors.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Helpers.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Http.Cors.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Http.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Http.WebHost.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Mvc.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Optimization.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Razor.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.WebPages.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.WebPages.Razor.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\WebGrease.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\EntityFramework.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\EntityFramework.SqlServer.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Http.Cors.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\Newtonsoft.Json.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Net.Http.Formatting.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Helpers.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Http.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Http.WebHost.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Mvc.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Optimization.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.Razor.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.WebPages.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\System.Web.WebPages.Razor.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\Antlr3.Runtime.pdb
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\obj\Debug\FilmBio1.csprojAssemblyReference.cache
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\obj\Debug\FilmBio1.csproj.CoreCompileInputs.cache
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\obj\Debug\FilmBio1.csproj.CopyComplete
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\obj\Debug\FilmBio1.dll
+C:\Users\amoha\OneDrive\Skrivbord\TheMovie-master (1)\TheMovie-master\Backend\FilmBio1\obj\Debug\FilmBio1.pdb
